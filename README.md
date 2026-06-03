@@ -38,16 +38,6 @@ SQL Server DBA with 3.7+ years of experience in production database administrati
 
 ---
 
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- Framer
-- GitHub Pages
-
----
-
 ## Experience Highlights
 
 - Supported enterprise production environments
